@@ -26,6 +26,7 @@ locale: "en-US"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:year/:month/:day/:title
+search: true
 social:
   type: Person
   links:
@@ -75,6 +76,16 @@ defaults:
       read_time: true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      show_date: true
 
 jekyll-archives:
   enabled: all
