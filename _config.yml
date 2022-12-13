@@ -21,10 +21,13 @@
 title: Tariq Yusuf
 email: tariq@tariqyusuf.in
 description: >- # this means to ignore newlines until "baseurl:"
-  Technology Policy and Privacy Engineering Expert.
+  Technology Policy, Digital Privacy, and Security Specialist.
 locale: "en-US"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+breadcrumbs: true
+breadcrumb_home_label: "Home"
+breadcrumb_separator: "/"
 social:
   type: Person
   links:
@@ -35,7 +38,7 @@ social:
 author:
   name: "Tariq Yusuf"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Technology Policy and Privacy Engineering Expert"
+  bio: "Technology Policy, Digital Privacy, and Security Specialist"
   location: "Seattle, WA"
   links:
     - label: "Twitter"
@@ -67,8 +70,9 @@ footer:
 defaults:
   - scope:
       path: ""
-      type: page
+      type: pages
     values:
+      layout: single
       author_profile: true
       read_time: true
       share: true
