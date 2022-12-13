@@ -12,6 +12,8 @@ building at scale systems, performing security and privacy risk assessments, and
 designing product features and internal policy focusing on protecting users.
 Currently pursuing an advanced degree in technology policy and ethics.
 
+{% include figure image_path="/assets/images/experience-crop.jpg" alt="a keyboard with no keys marked" %}
+
 # Experience
 
 ## Future of Privacy Forum / Legislative Policy Intern
@@ -60,6 +62,8 @@ OCTOBER 2014 - FEBRUARY 2016,  SEATTLE, WA
 
 * Built deployment automation for sensitive HR data storage backends. Managed
   operations response.
+
+{% include figure image_path="/assets/images/education-crop.jpg" alt="a graduation ceremony" %}
 
 # Education
 
