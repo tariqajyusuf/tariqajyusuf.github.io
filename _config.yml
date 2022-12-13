@@ -25,9 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 locale: "en-US"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-breadcrumbs: true
-breadcrumb_home_label: "Home"
-breadcrumb_separator: "/"
+permalink: /blog/:year/:month/:day/:title
 social:
   type: Person
   links:
@@ -78,10 +76,21 @@ defaults:
       share: true
       related: true
 
+jekyll-archives:
+  enabled: all
+  layout: posts
+  permalinks:
+    year: '/blog/:year/'
+    month: '/blog/:year/:month/'
+    day: '/blog/:year/:month/:day/'
+    tag: '/blog/tag/:name/'
+    category: '/blog/category/:name/'
+
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.
