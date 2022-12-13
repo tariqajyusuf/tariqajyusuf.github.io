@@ -34,6 +34,8 @@ social:
     - "https://linkedin.com/in/tariqyusuf"
     - "https://github.com/tariqajyusuf"
     - "https://absolutelyhar.am/@tariq"
+    - "https://flipboard.com/@tariqajyusuf"
+    - "https://keybase.io/ty"
 author:
   name: "Tariq Yusuf"
   avatar: "/assets/images/bio-photo.jpg"
@@ -52,6 +54,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tariqajyusuf"
+    - label: "Flipboard"
+      icon: "fab fa-fw fa-flipboard"
+      url: "https://flipboard.com/@tariqajyusuf"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url: "https://keybase.io/ty"
 footer:
   links:
     - label: "Twitter"
