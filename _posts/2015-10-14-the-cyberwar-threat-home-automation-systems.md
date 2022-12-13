@@ -6,4 +6,4 @@ categories: research
 Some recent work I did with Dr. Yoshi Kohno on hacking home automation systems
 recently aired on Nova. The piece starts at around 29:30. 
 
-http://www.pbs.org/wgbh/nova/military/cyberwar-threat.html
+[http://www.pbs.org/wgbh/nova/military/cyberwar-threat.html]()
