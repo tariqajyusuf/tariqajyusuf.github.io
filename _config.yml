@@ -38,12 +38,16 @@ social:
     - "https://absolutelyhar.am/@tariq"
     - "https://flipboard.com/@tariqajyusuf"
     - "https://keybase.io/ty"
+    - "mailto:tariq@tariqyusuf.in"
 author:
   name: "Tariq Yusuf"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Technology Policy, Digital Privacy, and Security Specialist"
   location: "Seattle, WA"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tariq@tariqyusuf.in"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tariqajyusuf"

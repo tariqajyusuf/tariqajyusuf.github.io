@@ -29,3 +29,7 @@ policymakers.
 
 He currently lives in Seattle, Washington with his partner and is finishing his
 degree at the University of Washington.
+
+# Contact Me
+
+You can reach me on social media or by sending an email to [tariq@tariqyusuf.in]().
