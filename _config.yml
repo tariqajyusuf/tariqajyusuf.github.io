@@ -24,8 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Technology Policy, Digital Privacy, and Security Specialist.
 locale: "en-US"
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: tariqajyusuf.github.io
-url: https://tariqajyusuf.github.io
+domain: tariqyusuf.in
+url: https://tariqyusuf.in
+google_analytics: G-9DLP8LEM70
 repository: tariqajyusuf/tariqajyusuf.github.io
 permalink: /blog/:year/:month/:day/:title
 search: true
