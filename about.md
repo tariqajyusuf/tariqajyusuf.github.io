@@ -3,6 +3,17 @@ title: About
 permalink: /about/
 ---
 
+![about](/assets/images/about.jpg){: .align-right}
+
+Tariq is a technology policy, digital privacy, and security specialist with 8+
+years of experience in the technology industry. He specializes in the
+intersection of privacy, engineering, legal, and policy, taking a
+cross-functional approach to problems facing both technology and society. He is
+graduating in 2023 with his Master in Jurisprudence from the University of
+Washington School of Law and received his Bachelor's in Computer Science from
+the Paul G. Allen School of Computer Science at the University of Washington in
+2011.
+
 # My Story
 Tariq was born in Seattle at the dawn of the dot-com boom. The excitement and
 growth around the new possibilities of the internet sparked a passion and
