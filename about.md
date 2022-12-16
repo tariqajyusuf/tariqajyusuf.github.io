@@ -43,4 +43,6 @@ degree at the University of Washington.
 
 # Contact Me
 
-You can reach me on social media or by sending an email to [tariq@tariqyusuf.in]().
+You can reach me on social media or by sending an email to
+[tariq@tariqyusuf.in](). I am also available for networking chats at
+[https://app.simplymeet.me/tariq]().

@@ -40,6 +40,7 @@ social:
     - "https://flipboard.com/@tariqajyusuf"
     - "https://keybase.io/ty"
     - "mailto:tariq@tariqyusuf.in"
+    - "https://app.simplymeet.me/tariq"
 author:
   name: "Tariq Yusuf"
   avatar: "/assets/images/bio-photo.jpg"
@@ -47,8 +48,11 @@ author:
   location: "Seattle, WA"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:tariq@tariqyusuf.in"
+    - label: "Schedule a Call"
+      icon: "fas fa-fw fa-calendar"
+      url: "https://app.simplymeet.me/tariq"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tariqajyusuf"
