@@ -2,7 +2,6 @@
 layout: posts
 author_profile: true
 title: Blog
-entries_layout: grid
 ---
 
 As I discover insights and encounters of note as I go through my career, I try
