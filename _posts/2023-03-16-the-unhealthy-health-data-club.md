@@ -6,6 +6,7 @@ header:
     overlay_color: "#000"
     overlay_filter: "0.8"
     overlay_image: /assets/images/blog/2023/03/16/un-healthy-healthy-data-club.png
+    og_image: /assets/images/blog/2023/03/16/un-healthy-healthy-data-club.png
 ---
 About two weeks ago, the Federal Trade Commission announced that it will be
 settling accusations with online counseling service BetterHelp that the company
