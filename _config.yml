@@ -71,6 +71,9 @@ author:
     - label: "Keybase"
       icon: "fab fa-fw fa-keybase"
       url: "https://keybase.io/ty"
+    - label: "Code and Consequence"
+      icon: "fas fa-fw fa-blog"
+      url: "https://codeandconsequence.substack.com/"
 footer:
   links:
     - label: "Twitter"
