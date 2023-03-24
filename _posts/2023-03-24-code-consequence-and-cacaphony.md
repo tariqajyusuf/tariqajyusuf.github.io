@@ -4,7 +4,7 @@ date:   2023-03-24 07:00 -0800
 categories: updates
 ---
 ***This is cross-posted on my new Substack, [Code
-& Consequences](https://codeandconsequences.substack.com). Subscribe there for
+& Consequences](https://codeandconsequence.substack.com). Subscribe there for
 more tech policy musings***
 
 For a good couple of months I’ve been considering starting some form of blog. I
