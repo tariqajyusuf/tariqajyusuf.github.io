@@ -30,5 +30,7 @@ the technology space for nonprofits and social causes to help equip them with
 the tools necessary to bring about a better world.
 
 This website mainly serves as a record of my work, mark of my existence, and a
-measure of personal accountability. You can connect with me by email or social
-media or by following my blog.
+measure of personal accountability. You can connect with me by email, on [
+Twitter](https://twitter.com/tariqajyusuf), on
+<a rel="me" href="https://absolutelyhar.am/@tariq">Mastodon</a> or by following
+my blog.
